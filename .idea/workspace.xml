@@ -146,7 +146,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1365" />
     <option name="height" value="740" />
   </component>
@@ -168,6 +168,69 @@
             <path>
               <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -181,7 +244,7 @@
               <item name="learnMahout" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnMahout" type="b2602c69:ProjectViewProjectNode" />
@@ -435,7 +498,7 @@
       <workItem from="1532835580683" duration="2978000" />
       <workItem from="1532912161121" duration="930000" />
       <workItem from="1532913176672" duration="1422000" />
-      <workItem from="1532916887697" duration="802000" />
+      <workItem from="1532916887697" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="更新了代码">
       <created>1532912834229</created>
@@ -453,10 +516,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50810000" />
+    <option name="totallyTimeSpent" value="50912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
